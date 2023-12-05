@@ -1,0 +1,20 @@
+CREATE TABLE IF NOT EXISTS `checker119`.`candidate` (
+  `candidate_id` INT NOT NULL AUTO_INCREMENT,
+  `name` VARCHAR(45) NULL DEFAULT NULL,
+  `email` VARCHAR(45) NULL DEFAULT NULL,
+  `dob` DATE NULL DEFAULT NULL,
+  `phone` VARCHAR(45) NULL DEFAULT NULL,
+  `zipcode` VARCHAR(45) NULL DEFAULT NULL,
+  `social_security` VARCHAR(45) NULL DEFAULT NULL,
+  `driver_licence` VARCHAR(45) NULL DEFAULT NULL,
+  `candidate_created_at` DATETIME NULL DEFAULT NULL,
+  `location` VARCHAR(45) NULL DEFAULT NULL,
+  `date` DATE NULL DEFAULT NULL,
+  `status` SET('clear', 'consider', 'engage') NULL DEFAULT NULL,
+  `adjudication` SET('-', 'adverse action', 'engage') NULL DEFAULT NULL,
+  `package` VARCHAR(45) NULL DEFAULT NULL,
+  `completed_date` DATETIME NULL DEFAULT NULL,
+  `turn_around_time` VARCHAR(45) NULL DEFAULT NULL,
+  `created_at` VARCHAR(45) NULL DEFAULT NULL,
+  PRIMARY KEY (`candidate_id`))
+ENGINE = InnoDB

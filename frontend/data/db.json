@@ -1,0 +1,298 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "name": "John Smith",
+      "adjudication": "-",
+      "status": "CLEAR",
+      "location": "Barrouallie",
+      "date": "2/22/2022",
+      "email": "john.smith@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 2,
+      "name": "Serene",
+      "adjudication": "-",
+      "status": "CLEAR",
+      "location": "Vänersborg",
+      "date": "3/13/2022",
+      "email": "serene@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 3,
+      "name": "Walsh",
+      "adjudication": "-",
+      "status": "CONSIDER",
+      "location": "Sukamanah",
+      "date": "7/2/2022",
+      "email": "walsh@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 4,
+      "name": "Maurizia",
+      "adjudication": "-",
+      "status": "CLEAR",
+      "location": "Sukamanah",
+      "date": "2/20/2022",
+      "email": "maurizia@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 5,
+      "name": "Kendre",
+      "adjudication": "-",
+      "status": "CLEAR",
+      "location": "Beutong Ateuh",
+      "date": "5/19/2022",
+      "email": "kendre@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 6,
+      "name": "Erastus",
+      "adjudication": "-",
+      "status": "CLEAR",
+      "location": "Höviyn Am",
+      "date": "12/1/2021",
+      "email": "erastus@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 7,
+      "name": "Jereme",
+      "adjudication": "-",
+      "status": "CONSIDER",
+      "location": "Sharïngol",
+      "date": "7/26/2022",
+      "email": "jereme@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 8,
+      "name": "John Smith",
+      "adjudication": "-",
+      "status": "CONSIDER",
+      "location": "Lianyun",
+      "date": "5/28/2022",
+      "email": "john@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 9,
+      "name": "Cari",
+      "adjudication": "-",
+      "status": "CLEAR",
+      "location": "Taboão da Serra",
+      "date": "5/23/2022",
+      "email": "cari@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    },
+    {
+      "id": 10,
+      "name": "Kimble",
+      "adjudication": "-",
+      "status": "CONSIDER",
+      "location": "Veselí nad Moravou",
+      "date": "8/24/2022",
+      "email": "kimble@checkr.com",
+      "dob": "1990-09-10 (26)",
+      "phoneNo": "(555) 555-5555",
+      "zipcode": "94158",
+      "socialSecurity": "XXX-XX-6789",
+      "driverLicense": "FTEST1111 (CA)",
+      "createdAt": "2016-11-29 11:05:57",
+      "package": "Employee pro",
+      "reportCreatedAt": "2016-12-01 12:00:00",
+      "reportCompletionDate": "2016-12-04 12:00:00",
+      "turnAroundTime": "1 Day , 14 hours"
+    }
+  ],
+  "courtSearches": [
+    {
+      "id": 1,
+      "search": "SSN Verification",
+      "status": "CLEAR",
+      "date": "2/22/2022"
+    },
+    {
+      "id": 2,
+      "search": "Sexual Offender",
+      "status": "CLEAR",
+      "date": "3/13/2022"
+    },
+    {
+      "id": 3,
+      "search": "Global Watchlist",
+      "status": "CONSIDER",
+      "date": "7/2/2022"
+    },
+    {
+      "id": 4,
+      "search": "Federal Criminal",
+      "status": "CLEAR",
+      "date": "2/20/2022"
+    },
+    {
+      "id": 5,
+      "search": "County Criminal",
+      "status": "CLEAR",
+      "date": "5/19/2022"
+    }
+  ],
+  "adverseActions": [
+    {
+      "id": "1",
+      "name": "John Smith",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "02/22/2022",
+      "postNoticeTime": "02/22/2022"
+    },
+    {
+      "id": "2",
+      "name": "Serene",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "03/13/2022",
+      "postNoticeTime": "03/13/2022"
+    },
+    {
+      "id": "3",
+      "name": "Walsh",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "07/02/2022",
+      "postNoticeTime": "07/02/2022"
+    },
+    {
+      "id": "4",
+      "name": "Maurizia",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "02/20/2022",
+      "postNoticeTime": "02/20/2022"
+    },
+    {
+      "id": "5",
+      "name": "Kendre",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "05/19/2022",
+      "postNoticeTime": "05/19/2022"
+    },
+    {
+      "id": "6",
+      "name": "Erastus",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "05/19/2022",
+      "postNoticeTime": "05/19/2022"
+    },
+    {
+      "id": "7",
+      "name": "Jereme",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "07/26/2022",
+      "postNoticeTime": "07/26/2022"
+    },
+    {
+      "id": "8",
+      "name": "John Smith",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "05/28/2022",
+      "postNoticeTime": "05/28/2022"
+    },
+    {
+      "id": "9",
+      "name": "Cari",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "05/23/2022",
+      "postNoticeTime": "05/23/2022"
+    },
+    {
+      "id": "10",
+      "name": "Kimble",
+      "actionStatus": "SCHEDULED",
+      "preNoticeTime": "08/24/2022",
+      "postNoticeTime": "08/24/2022"
+    }
+  ]
+}
